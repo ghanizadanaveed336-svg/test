@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application x:Class="ModernDashboardApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <SolidColorBrush x:Key="BackgroundDark" Color="#0B1120"/>
+            <SolidColorBrush x:Key="BackgroundMid" Color="#111B2D"/>
+            <SolidColorBrush x:Key="PanelBrush" Color="#15243D"/>
+            <SolidColorBrush x:Key="PrimaryBrush" Color="#7C6AFC"/>
+            <SolidColorBrush x:Key="SecondaryBrush" Color="#38BDF8"/>
+            <SolidColorBrush x:Key="SuccessBrush" Color="#34D399"/>
+            <SolidColorBrush x:Key="WarningBrush" Color="#FBBF24"/>
+            <SolidColorBrush x:Key="TextMain" Color="#E5EEF9"/>
+            <SolidColorBrush x:Key="TextSoft" Color="#9FB3C8"/>
+            <SolidColorBrush x:Key="BorderBrush" Color="#23354F"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
